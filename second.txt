@@ -2,6 +2,6 @@ The fascination around Artificial Intelligence (AI)-powered computers and robots
 Trading & investment before AI
 Before the internet and trading and investment apps, traders relied on stock analysts, research analysts, and media coverage to guide investment decisions. Research analysts played a crucial role in providing valuable insights and recommendations to retail clients by thoroughly researching and analysing various financial instruments such as stocks, bonds, and mutual funds. While depending on research analysts was one option, as traders spen ..
 Fundamental analysis involves a comprehensive examination of a company's stock, including an assessment of its financial, quantitative, and qualitative aspects, to determine its intrinsic value. On the other hand, technical analysis primarily relies on studying the price movements of a specific stock to develop strategies. Most technical analyses aim to identify ongoing stock trends and assess potential indications of future reversals.
-Author: Prarthana
+Author: Prarthana and  Srilaxmi
 
 
