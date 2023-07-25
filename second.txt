@@ -1,7 +1,7 @@
-Hi this is Java training Program!!
+The fascination around Artificial Intelligence (AI)-powered computers and robots has existed since the first half of the 20th Century, starting with the "heartless" Tin Man from The Wizard of Oz. Several mathematicians, scientists and philosophers were exploring theories and concepts of AI by the 1940s. However, only in February 1996 did the relationship between humans and Artificial Intelligence change forever when the first AI construct, Deep Blue, a supercomputer developed.
+Trading & investment before AI
+Before the internet and trading and investment apps, traders relied on stock analysts, research analysts, and media coverage to guide investment decisions. Research analysts played a crucial role in providing valuable insights and recommendations to retail clients by thoroughly researching and analysing various financial instruments such as stocks, bonds, and mutual funds. While depending on research analysts was one option, as traders spen ..
+Fundamental analysis involves a comprehensive examination of a company's stock, including an assessment of its financial, quantitative, and qualitative aspects, to determine its intrinsic value. On the other hand, technical analysis primarily relies on studying the price movements of a specific stock to develop strategies. Most technical analyses aim to identify ongoing stock trends and assess potential indications of future reversals.
+Author: Prarthana
 
 
-The fascination around Artificial Intelligence (AI)-powered computers and robots has existed since the first half of the 20th Century, starting with the "heartless" Tin Man from The Wizard of Oz. Several mathematicians, scientists and philosophers were exploring theories and concepts of AI by the 1940s. However, only in February 1996 did the relationship between humans and Artificial Intelligence change forever when the first AI construct, Deep Blue, a supercomputer developed b ..
-
-Read more at:
-https://economictimes.indiatimes.com/markets/stocks/news/why-is-ai-the-future-of-trading-in-india/articleshow/101374538.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
